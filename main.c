@@ -1,3 +1,25 @@
+//***********************************************************// 
+// 						[ Source Code ] 
+// 
+// Institution 	: Institut Teknologi Bandung 
+// Name 		: <Nama Praktikan> 
+// File Name 	: main.c 
+// Dependency 	: stdio.h, Lib.h
+// 
+// Description: 
+// 	Membuat sebuah program yang dapat membuat jadwal praktikum
+//	dan mengatur jadwal asisten di setiap shift praktikum yang
+//	ada.
+// 
+// Status: 
+// 1. Rizky Ardi Maulana - 13217054 : Create the file 
+// 2. Devananda - 13217061 : Fix the bug where number 2 
+//								 printed twice 
+// 3. Hans Jeremia - 13217066 : membuat main program dan rule
+//                              checker
+// 4. Muhammad Nadhif Farizi - 13217074 : 
+//***********************************************************//
+
 //Library
 #include <stdio.h>
 #include <stdio.h>
